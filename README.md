@@ -1,4 +1,5 @@
-# TCP Client-Server Integer Array Sum
+# TCP Client-Server Integer Array Sum-Computer Networks 
+
 
 ## Description
 This project implements a simple TCP client-server connection in C. The client sends an integer array to the server, and the server computes the sum of the elements in the array and returns it to the client.
